@@ -1,2 +1,4 @@
 POINTING_DEVICE_DRIVER = analog_joystick
 SRC += lib/oled.c
+MOUSEKEY_ENABLE = no
+POINTING_DEVICE_ENABLE = no
